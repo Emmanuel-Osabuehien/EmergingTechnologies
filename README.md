@@ -19,7 +19,7 @@
 1. Download [Anaconda]().
 2. Download [cmder]() if on Windows.
 3. Ensure that git is installed.
-4. 'cd' into your intended dirctory
+4. 'cd' into your working directory
 5. 'git clone' repository "https://github.com/Emmanuel-Osabuehien/EmergingTechnologyProject.git"
 6. Run `juypter lab`.
 7. Jupyter should run in browser
