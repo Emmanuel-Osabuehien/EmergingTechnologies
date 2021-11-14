@@ -8,11 +8,11 @@
 
 ## Why this repository exists
 
-
+s
 
 ## What is in it
 
-
+This project contains 2 notebooks known as 'scikit-learn.ipynb' and quantum-deutsch.ipynb'.
 
 ## How to run the notebook
 
