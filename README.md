@@ -49,6 +49,7 @@ This repository exists to contain my Emerging Technology project which shows you
 - Matplotlib (Version 3.4.3)
 - Pandas (Version 1.3.4)
 - Seaborn (Version 0.11.2)
+- Qiskit (Version 0.32.0)
 
 ## Research
 - [Playing with Jupyter,<br> https://github.com/Emmanuel-Osabuehien/playing-with-jupyter](https://github.com/Emmanuel-Osabuehien/playing-with-jupyter)
