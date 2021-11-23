@@ -37,10 +37,6 @@ This repository exists to contain my Emerging Technology project which shows you
 
 <h4> Alternatively: </h4>
 
-You can view the scikit-learn.ipynb in dynamic form by clicking the following badge:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Emmanuel-Osabuehien/EmergingTechnologyProject/HEAD?labpath=scikit-learn.ipynb)
-
 <p> Software that is required to run the project includes: </p>
 
 - Python 3.9
@@ -66,4 +62,4 @@ You can view the scikit-learn.ipynb in dynamic form by clicking the following ba
 
 - [Scikit-Learn.org,<br> https://scikit-learn.org/stable/#](https://scikit-learn.org/stable/#)
 - [Qiskit.org,<br> https://qiskit.org/](https://qiskit.org/)
-- [Datacamp.com,<br> https://www.datacamp.com/community/tutorials/machine-learning-python)
+- [Datacamp.com,<br> https://www.datacamp.com/community/tutorials/machine-learning-python/](https://www.datacamp.com/community/tutorials/machine-learning-python/)
