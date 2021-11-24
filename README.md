@@ -36,6 +36,8 @@ This repository exists to contain my Emerging Technology project which shows you
 9. Jupyter should run in browser
 10. You can restart and run all cells in either the 'scikit-learn.ipynb' or 'quantum-deutsch.ipynb' notebooks.
 
+<p> System requirements that are needed to run the project includes: </p>
+
 - Python 3.9
 - Git
 - Docker
