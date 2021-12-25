@@ -1,16 +1,28 @@
-# Project: Emerging Technologies 2021
-***
+# Emerging Technologies
 
-**Name:** Emmanuel Osabuehien\
-**Student ID:** G00373559\
-**Module:** Emerging Technologies\
-**Date:** 19/12/2021
+## Contents
 
-## Why this repository exists
+* [Project Details](#details)
+* [Why This Repository Exists](#why) 
+* [What Is In It](#what)
+* [How To Run The Notebook](#how)
+* [Research](#research)
+* [References](#references)
+
+## Project Details<a name = "details"></a>
+
+| Project Details   |     |
+| --- | --- |
+| **College** | Galway-Mayo Institute of Technology|
+| **Course** | BSc (Hons) in Computing in Software Development  |
+| **Module** |  Emerging Technologies |
+| **Student** | Emmanuel Osabuehien (G00373559) |
+
+## Why This Repository Exists<a name = "why"></a>
 
 This repository exists to contain my Emerging Technology project which shows you how to use the scikit-learn library built into python by demonstrating different algorithms that can be built using this library and it also shows you an demonstration and explanation of the Deutsch–Jozsa algorithm using the qiskit package built into python
 
-## What is in it
+## What Is In It<a name = "what"></a>
 
 <b>.dockerignore - </b> This file specifies which folders/files should Docker ignore when building. <br>
 <b>.gitignore - </b> This file specifies which folders/files should Git ignore when building. <br>
@@ -23,7 +35,7 @@ This repository exists to contain my Emerging Technology project which shows you
 <b>scikit-learn.ipynb - </b> This is a juptyer notebook that contains information on what is the scikit-learn python library and shows different algorithms that can be done using the scikit-learn library. <br>
 <b>requirements.txt - </b> This is a text file which specifies the python packages needed the run this project. <br>
 
-## How to run the notebook
+## How To Run The Notebook<a name = "how"></a>
 
 1. Download [Anaconda]().
 2. Download [cmder]() if on Windows.
@@ -59,12 +71,12 @@ Alternatively, if you have docker installed:
 - Seaborn (Version 0.11.2)
 - Qiskit (Version 0.32.0)
 
-## Research
+## Research<a name = "research"></a>
 - [Playing with Jupyter,<br> https://github.com/Emmanuel-Osabuehien/playing-with-jupyter](https://github.com/Emmanuel-Osabuehien/playing-with-jupyter)
 - [Numpy Random,<br> https://github.com/Emmanuel-Osabuehien/numpy-random](https://github.com/Emmanuel-Osabuehien/numpy-random)
 - [Quantum Computing,<br> https://github.com/Emmanuel-Osabuehien/quantum-computing.git](https://github.com/Emmanuel-Osabuehien/quantum-computing.git)
 
-## References
+## References<a name = "references"></a>
 
 - [Scikit-Learn.org,<br> https://scikit-learn.org/stable/#](https://scikit-learn.org/stable/#)
 - [Qiskit.org,<br> https://qiskit.org/](https://qiskit.org/)
