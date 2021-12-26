@@ -81,11 +81,11 @@ Alternatively, if you have docker installed:
 - [Scikit-Learn.org,<br> https://scikit-learn.org/stable/#](https://scikit-learn.org/stable/#)
 - [Qiskit.org,<br> https://qiskit.org/](https://qiskit.org/)
 - [Datacamp.com,<br> https://www.datacamp.com/community/tutorials/machine-learning-python/](https://www.datacamp.com/community/tutorials/machine-learning-python/)
-- [PythonProgramming.net,<br> https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/(https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/)
-- [TutorialsPoint.com,<br> https://www.tutorialspoint.com/scikit_learn/index.htm/]https://www.tutorialspoint.com/scikit_learn/index.htm/)
-- [Quantum-Computing.ibm.com,<br> https://quantum-computing.ibm.com/lab/docs/iql/algorithm/](https://quantum-computing.ibm.com/lab/docs/iql/algorithm/)
-- [Scikit-Learn.org,<br> https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
-- [Jupyter.org,<br> https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
+- [Quantum-Computing.ibm.com,<br> (https://quantum-computing.ibm.com/lab/docs/iql/algorithm](https://quantum-computing.ibm.com/lab/docs/iql/algorithm)
+- [Jupyter.org,<br> https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
+- [Docker.com,<br> https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
+- [PythonProgramming.net,<br> https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/](https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/)
+- [TutorialsPoint.com,<br> https://www.tutorialspoint.com/scikit_learn/index.htm/](https://www.tutorialspoint.com/scikit_learn/index.htm/)
 - O. Kramer, *Scikit-learn*, New York, NY: Springer, 2016
 - G. Hackeling, *Mastering Machine Learning with scikit-learn*, Birmingham, UK: Packt Publishing Ltd, 2017
 - C. Boettiger, *An introduction to Docker for reproducible research*, New York, NY: ACM , 2015
