@@ -81,7 +81,7 @@ Alternatively, if you have docker installed:
 - [Scikit-Learn.org,<br> https://scikit-learn.org/stable/#](https://scikit-learn.org/stable/#)
 - [Qiskit.org,<br> https://qiskit.org/](https://qiskit.org/)
 - [Datacamp.com,<br> https://www.datacamp.com/community/tutorials/machine-learning-python/](https://www.datacamp.com/community/tutorials/machine-learning-python/)
-- [PythonProgramming.net,<br> https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/](https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/)
+- [PythonProgramming.net,<br> https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/(https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/)
 - [TutorialsPoint.com,<br> https://www.tutorialspoint.com/scikit_learn/index.htm/]https://www.tutorialspoint.com/scikit_learn/index.htm/)
 - [Quantum-Computing.ibm.com,<br> https://quantum-computing.ibm.com/lab/docs/iql/algorithm/](https://quantum-computing.ibm.com/lab/docs/iql/algorithm/)
 - [Scikit-Learn.org,<br> https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
