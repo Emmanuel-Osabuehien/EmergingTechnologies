@@ -82,4 +82,10 @@ Alternatively, if you have docker installed:
 - [Qiskit.org,<br> https://qiskit.org/](https://qiskit.org/)
 - [Datacamp.com,<br> https://www.datacamp.com/community/tutorials/machine-learning-python/](https://www.datacamp.com/community/tutorials/machine-learning-python/)
 - [pythonprogramming.net,<br> https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/](https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/)
-
+- O. Kramer, *Scikit-learn*, New York, NY: Springer, 2016
+- G. Hackeling, *Mastering Machine Learning with scikit-learn*, Birmingham, UK: Packt Publishing Ltd, 2017
+- C. Boettiger, *An introduction to Docker for reproducible research*, New York, NY: ACM , 2015
+- J. Gruska, *Quantum Computing*, vol 2005, London, UK: McGraw-Hill, 1999
+- O. H. M. Ross, *A review of quantum-inspired metaheuristics: Going from classical computers to real quantum computers*, vol 8, Piscataway, NJ: IEEE, 2019, pp. 814-838 
+- S. Aarthi and P. N. Singh, *Quantum Circuits - An Application in Qiskit-Python*, Piscataway, NJ: IEEE, 2021, PP. 661-667
+- M. Hillery, *Coherence as a resource in decision problems: The Deutsch-Jozsa algorithm and a variation*, vol 93, St. Paul, MN: Springer, APS, 2016, pp. 12-111
