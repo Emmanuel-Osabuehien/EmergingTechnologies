@@ -11,7 +11,7 @@
 
 ## Project Details<a name = "details"></a>
 
-| Project Details   |     |
+| Details   |     |
 | --- | --- |
 | **College** | Galway-Mayo Institute of Technology|
 | **Course** | BSc (Hons) in Computing in Software Development  |
@@ -30,7 +30,7 @@ This repository exists to contain my Emerging Technology project which shows you
 <b>README.md - </b> This is a text file containing information used to introduce and explain the project, te README.md explains questions such as why this repository exists, what is in it and how to run the notebook. <br>
 <b>docker-compose.yml -</b> This is a config file, it is for docker-composeIt used for a variety of things such as to specify what images are required, which ports you want to expose, what commands should be run when they start, how to link containers, etc.<br>
 <b>combined_process_power_plant.csv - </b> This is a data file containing 9568 data points collected from a combined cycle power plant that will be used for one of the algortihms in the scikit-learn notebook. <br>
-<b>processed.cleveland.data.csv - </b> This is a data file containing data regarding patients in a clinic that will be used for one of the algortihms in the scikit-learn notebook. <br>
+<b>processed.cleveland.data - </b> This is a data file containing data regarding patients in a clinic that will be used for one of the algortihms in the scikit-learn notebook. <br>
 <b>quantum-deutsch.ipynb - </b> This jupyter notebook contains information on what is quantum computing, how does it work and what is the different between classical and quantum computing and it also contains an explanation of the Deutsch algorithm. <br>
 <b>scikit-learn.ipynb - </b> This is a juptyer notebook that contains information on what is the scikit-learn python library and shows different algorithms that can be done using the scikit-learn library. <br>
 <b>requirements.txt - </b> This is a text file which specifies the python packages needed the run this project. <br>
@@ -81,7 +81,11 @@ Alternatively, if you have docker installed:
 - [Scikit-Learn.org,<br> https://scikit-learn.org/stable/#](https://scikit-learn.org/stable/#)
 - [Qiskit.org,<br> https://qiskit.org/](https://qiskit.org/)
 - [Datacamp.com,<br> https://www.datacamp.com/community/tutorials/machine-learning-python/](https://www.datacamp.com/community/tutorials/machine-learning-python/)
-- [pythonprogramming.net,<br> https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/](https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/)
+- [PythonProgramming.net,<br> https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/](https://pythonprogramming.net/Deutsch-jozsa-hadamard-quantum-computer-programming-tutorial/)
+- [TutorialsPoint.com,<br> https://www.tutorialspoint.com/scikit_learn/index.htm/]https://www.tutorialspoint.com/scikit_learn/index.htm/)
+- [Quantum-Computing.ibm.com,<br> https://quantum-computing.ibm.com/lab/docs/iql/algorithm/](https://quantum-computing.ibm.com/lab/docs/iql/algorithm/)
+- [Scikit-Learn.org,<br> https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
+- [Jupyter.org,<br> https://docs.docker.com/get-started/](https://docs.docker.com/get-started/)
 - O. Kramer, *Scikit-learn*, New York, NY: Springer, 2016
 - G. Hackeling, *Mastering Machine Learning with scikit-learn*, Birmingham, UK: Packt Publishing Ltd, 2017
 - C. Boettiger, *An introduction to Docker for reproducible research*, New York, NY: ACM , 2015
@@ -89,3 +93,4 @@ Alternatively, if you have docker installed:
 - O. H. M. Ross, *A review of quantum-inspired metaheuristics: Going from classical computers to real quantum computers*, vol 8, Piscataway, NJ: IEEE, 2019, pp. 814-838 
 - S. Aarthi and P. N. Singh, *Quantum Circuits - An Application in Qiskit-Python*, Piscataway, NJ: IEEE, 2021, PP. 661-667
 - M. Hillery, *Coherence as a resource in decision problems: The Deutsch-Jozsa algorithm and a variation*, vol 93, St. Paul, MN: Springer, APS, 2016, pp. 12-111
+- J. M. Perkel, *Why Jupyter is data scientists' computational notebook of choice*, vol 563, Berlin, DE: Nature Publishing Group, 2018, pp. 145-147
