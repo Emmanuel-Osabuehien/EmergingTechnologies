@@ -31,9 +31,10 @@ This repository exists to contain my Emerging Technology project which shows you
 <b>docker-compose.yml -</b> This is a config file, it is for docker-composeIt used for a variety of things such as to specify what images are required, which ports you want to expose, what commands should be run when they start, how to link containers, etc.<br>
 <b>combined_process_power_plant.csv - </b> This is a data file containing 9568 data points collected from a combined cycle power plant that will be used for one of the algortihms in the scikit-learn notebook. <br>
 <b>processed.cleveland.data - </b> This is a data file containing data regarding patients in a clinic that will be used for one of the algortihms in the scikit-learn notebook. <br>
-<b>quantum-deutsch.ipynb - </b> This jupyter notebook contains information on what is quantum computing, how does it work and what is the different between classical and quantum computing and it also contains an explanation of the Deutsch algorithm. <br>
+<b>quantum-deutsch.ipynb - </b> This is a jupyter notebook contains information on what is quantum computing, how does it work and what is the different between classical and quantum computing and it also contains an explanation of the Deutsch algorithm. <br>
 <b>scikit-learn.ipynb - </b> This is a juptyer notebook that contains information on what is the scikit-learn python library and shows different algorithms that can be done using the scikit-learn library. <br>
-<b>requirements.txt - </b> This is a text file which specifies the python packages needed the run this project. <br>
+<b>scikit.png - </b> This is an image that I will be using in my scitkit-learn.ipynb file. <br>
+<b>qiskit.png - </b> This is an image that I will be using in my quantum-deutsch.ipynb file. <br>
 
 ## How To Run The Notebook<a name = "how"></a>
 
