@@ -20,7 +20,7 @@
 
 ## Why This Repository Exists<a name = "why"></a>
 
-This repository exists to contain my Emerging Technology project which shows you how to use the scikit-learn library built into python by demonstrating different algorithms that can be built using this library and it also shows you an demonstration and explanation of the Deutsch–Jozsa algorithm using the qiskit package built into python
+This repository exists to contain my Emerging Technology project which shows you how to use the scikit-learn library built into python by demonstrating different algorithms that can be built using this library and it also shows you an demonstration and explanation of the Deutsch–Jozsa algorithm using the qiskit package built into python.
 
 ## What Is In It<a name = "what"></a>
 
