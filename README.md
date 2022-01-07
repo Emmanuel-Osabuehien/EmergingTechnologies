@@ -27,7 +27,7 @@ This repository exists to contain my Emerging Technology project which shows you
 <b>.dockerignore - </b> This file specifies which folders/files should Docker ignore when building. <br>
 <b>.gitignore - </b> This file specifies which folders/files should Git ignore when building. <br>
 <b>Dockerfile - </b> This file contains the commands a user calls in the command line to generate an image.<br>
-<b>README.md - </b> This is a text file containing information used to introduce and explain the project, te README.md explains questions such as why this repository exists, what is in it and how to run the notebook. <br>
+<b>README.md - </b> This is a text file containing information used to introduce and explain the project, the README.md explains questions such as why this repository exists, what is in it and how to run the notebook. <br>
 <b>docker-compose.yml -</b> This is a config file, it is for docker-composeIt used for a variety of things such as to specify what images are required, which ports you want to expose, what commands should be run when they start, how to link containers, etc.<br>
 <b>combined_process_power_plant.csv - </b> This is a data file containing 9568 data points collected from a combined cycle power plant that will be used for one of the algortihms in the scikit-learn notebook. <br>
 <b>processed.cleveland.data - </b> This is a data file containing data regarding patients in a clinic that will be used for one of the algortihms in the scikit-learn notebook. <br>
