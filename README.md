@@ -85,7 +85,11 @@ Click the following image to view the scikit-learn.ipynb notebook in a static fo
 
 Click the following image to view the quantum-deutsch.ipynb notebook in a dynamic form:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Emmanuel-Osabuehien/EmergingTechnologyProject/HEAD?labpath=quantum-deutsch.ipynb)
+
 Click the following image to view the scikit-learn.ipynb notebook in a dynamic form:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Emmanuel-Osabuehien/EmergingTechnologyProject/HEAD?labpath=scikit-learn.ipynb)
 
 ## Research<a name = "research"></a>
 - [Playing with Jupyter,<br> https://github.com/Emmanuel-Osabuehien/playing-with-jupyter](https://github.com/Emmanuel-Osabuehien/playing-with-jupyter)
