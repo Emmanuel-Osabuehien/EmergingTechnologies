@@ -6,6 +6,7 @@
 * [Why This Repository Exists](#why) 
 * [What Is In It](#what)
 * [How To Run The Notebook](#how)
+* [Quick Steps](#quick)
 * [Research](#research)
 * [References](#references)
 
@@ -71,6 +72,10 @@ Alternatively, if you have docker installed:
 - Pandas (Version 1.3.4)
 - Seaborn (Version 0.11.2)
 - Qiskit (Version 0.32.0)
+
+## Quick Steps<a name = "quick"></a>
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Emmanuel-Osabuehien/EmergingTechnologyProject/blob/main/quantum-deutsch.ipynb)
 
 ## Research<a name = "research"></a>
 - [Playing with Jupyter,<br> https://github.com/Emmanuel-Osabuehien/playing-with-jupyter](https://github.com/Emmanuel-Osabuehien/playing-with-jupyter)
