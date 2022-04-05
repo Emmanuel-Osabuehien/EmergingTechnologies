@@ -75,7 +75,17 @@ Alternatively, if you have docker installed:
 
 ## Quick Steps<a name = "quick"></a>
 
+Click the following image to view the quantum-deutsch.ipynb notebook in a static form:
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Emmanuel-Osabuehien/EmergingTechnologyProject/blob/main/quantum-deutsch.ipynb)
+
+Click the following image to view the scikit-learn.ipynb notebook in a static form:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Emmanuel-Osabuehien/EmergingTechnologyProject/blob/main/scikit-learn.ipynb)
+
+Click the following image to view the quantum-deutsch.ipynb notebook in a dynamic form:
+
+Click the following image to view the scikit-learn.ipynb notebook in a dynamic form:
 
 ## Research<a name = "research"></a>
 - [Playing with Jupyter,<br> https://github.com/Emmanuel-Osabuehien/playing-with-jupyter](https://github.com/Emmanuel-Osabuehien/playing-with-jupyter)
